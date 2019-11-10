@@ -3,7 +3,7 @@ Build SharePoint client-side web part (Hello World part 1)
 https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/build-a-hello-world-web-part
 
 
-## spfx-new
+## spfx-new(SharePoint Framework)
 
 This is where you include your WebPart documentation.
 
